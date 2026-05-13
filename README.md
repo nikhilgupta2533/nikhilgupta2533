@@ -29,10 +29,12 @@ Focus:
   - Authentication & Authorization
   - Cloud Deployment
   - Backend Architecture
+
 Learning:
   - System Design
   - Advanced Spring Boot
   - DSA & Optimization
+
 Goal: Build production-grade scalable systems
 ```
 
@@ -123,13 +125,13 @@ class NikhilGupta {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=nikhilgupta2533&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3"/>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgupta2533&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -183,7 +185,7 @@ class NikhilGupta {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 

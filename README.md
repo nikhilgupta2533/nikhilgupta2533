@@ -24,18 +24,20 @@
 Name: Nikhil Gupta
 Role: Backend Engineer
 Specialization: Java Backend Development
+
 Focus:
-  - Scalable REST APIs
-  - Authentication & Authorization
-  - Cloud Deployment
+  - REST APIs
+  - Authentication Systems
   - Backend Architecture
+  - Cloud Deployment
 
 Learning:
+  - Spring Boot
   - System Design
-  - Advanced Spring Boot
   - DSA & Optimization
 
-Goal: Build production-grade scalable systems
+Goal:
+  Build scalable production-grade systems
 ```
 
 ---
@@ -49,7 +51,7 @@ class NikhilGupta {
 
     String role = "Backend Engineer";
 
-    String[] techStack = {
+    String[] technologies = {
         "Java",
         "Spring Boot",
         "Node.js",
@@ -58,13 +60,10 @@ class NikhilGupta {
         "AWS"
     };
 
-    String currentMission =
-        "Building scalable backend applications";
+    String currentFocus =
+        "Building scalable backend systems";
 
-    String interests =
-        "System Design • APIs • Cloud • AI";
-
-    boolean openForCollaboration = true;
+    boolean openToCollaborate = true;
 }
 ```
 
@@ -110,28 +109,12 @@ class NikhilGupta {
 
 <div align="center">
 
-| 🚀 Project | ⚡ Description | 🛠 Tech |
-|------------|----------------|---------|
-| 🔐 Auth System | JWT & RBAC-based authentication backend | Spring Boot, JWT |
-| ☁️ Cloud Backend | Cloud deployed scalable REST APIs | AWS, Docker |
-| 📊 Analytics Platform | Backend-heavy analytics & management system | Java, MySQL |
-| 🧠 AI Integration | AI-powered application features | Node.js, AI APIs |
-
-</div>
-
----
-
-# 📊 GITHUB_ANALYTICS()
-
-<div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgupta2533&theme=github-dark-blue&hide_border=true"/>
+| 🚀 Project | ⚡ Description |
+|------------|----------------|
+| 🔐 Auth System | JWT & RBAC authentication backend |
+| ☁️ Cloud Backend | Scalable cloud deployed APIs |
+| 📊 Analytics Platform | Backend-heavy management system |
+| 🧠 AI Integration | AI-powered application features |
 
 </div>
 
@@ -141,7 +124,7 @@ class NikhilGupta {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
@@ -173,20 +156,6 @@ class NikhilGupta {
 <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
-</a>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION_SNAKE()
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
 
 ---
@@ -206,21 +175,6 @@ class NikhilGupta {
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🎯 CURRENT_FOCUS()
-
-<div align="center">
-
-```diff
-+ Building scalable backend systems
-+ Improving DSA & problem-solving
-+ Learning advanced system design
-+ Exploring cloud-native development
-```
 
 </div>
 

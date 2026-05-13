@@ -26,10 +26,10 @@ Role: Backend Engineer
 Specialization: Java Backend Development
 
 Focus:
-  - REST APIs
-  - Authentication Systems
-  - Backend Architecture
+  - Scalable REST APIs
+  - Authentication & Authorization
   - Cloud Deployment
+  - Backend Architecture
 
 Learning:
   - Spring Boot
@@ -109,12 +109,28 @@ class NikhilGupta {
 
 <div align="center">
 
-| 🚀 Project | ⚡ Description |
-|------------|----------------|
-| 🔐 Auth System | JWT & RBAC authentication backend |
-| ☁️ Cloud Backend | Scalable cloud deployed APIs |
-| 📊 Analytics Platform | Backend-heavy management system |
-| 🧠 AI Integration | AI-powered application features |
+| 🚀 Project | ⚡ Description | 🛠 Tech |
+|------------|----------------|---------|
+| 🔐 Auth System | JWT & RBAC authentication backend | Spring Boot, JWT |
+| ☁️ Cloud Backend | Scalable cloud deployed APIs | AWS, Docker |
+| 📊 Analytics Platform | Backend-heavy management system | Java, MySQL |
+| 🧠 AI Integration | AI-powered application features | Node.js, AI APIs |
+
+</div>
+
+---
+
+# 📊 GITHUB_ANALYTICS()
+
+<div align="center">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&cache_seconds=86400"/>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&cache_seconds=86400"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=nikhilgupta2533&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3"/>
 
 </div>
 
@@ -124,7 +140,7 @@ class NikhilGupta {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -156,6 +172,20 @@ class NikhilGupta {
 <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
 </a>
 
+<a href="https://www.geeksforgeeks.org/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION_SNAKE()
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
 ---
@@ -175,6 +205,21 @@ class NikhilGupta {
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 CURRENT_FOCUS()
+
+<div align="center">
+
+```diff
++ Building scalable backend systems
++ Improving DSA & problem-solving
++ Learning advanced system design
++ Exploring cloud-native development
+```
 
 </div>
 

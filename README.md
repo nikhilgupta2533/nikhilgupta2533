@@ -74,11 +74,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=nikhilgupta2533&theme=tokyonight&hide_border=true&border_radius=12"/>
 

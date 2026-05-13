@@ -139,7 +139,6 @@
 <div align="center">
 
 ![snake gif](https://github.com/nikhilgupta2533/nikhilgupta2533/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---

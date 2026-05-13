@@ -1,96 +1,144 @@
 <div align="center">
 
-# Nikhil Gupta
+# Hey 👋 I'm Nikhil Gupta
 
-### Backend Engineer · Full-Stack Developer · Systems Thinker
+### Backend Engineer • Java Developer • System Design Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Full-Stack;Building+Scalable+Backend+Systems;DSA+%7C+System+Design+%7C+Cloud)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 💫 About Me
-
-- 🔭 Building full-stack applications while strengthening **Data Structures & Algorithms**
-- ⚙️ Backend-focused developer using **Java**, **Spring Boot** & scalable APIs
-- 🤝 Open to collaborating on real-world, **backend-heavy projects**
-- 🌱 Currently improving **system design**, deployment & cloud integration
-- 💡 Interested in **scalable systems**, AI integration & performance optimization
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nikhilgupta.2533)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilgupta2533)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilgupta2533@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=6DB33F&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Cloud;REST+APIs+%7C+Authentication+Systems;Always+Learning+and+Building+⚡" />
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-**Languages & Frameworks**
+# 💫 About Me
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- 💻 Backend-focused Computer Science student passionate about scalable systems
+- ⚙️ Building REST APIs & backend applications using **Java & Spring Boot**
+- ☁️ Exploring cloud deployment, system design & scalable architecture
+- 🧠 Strong interest in **DSA**, optimization & backend engineering
+- 🤝 Open to collaborating on real-world backend-heavy projects
+- 🚀 Focused on becoming a high-level software engineer
 
-**Databases**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgupta2533&theme=radical&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=radical&no-frame=true&margin-w=10&column=7" />
-</div>
-
----
-
-## 🔥 Contribution Graph
+# 🌐 Connect With Me
 
 <div align="center">
 
-[![Nikhil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=react-dark&hide_border=true)](https://github.com/nikhilgupta2533)
+<a href="https://instagram.com/nikhilgupta.2533">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nikhilgupta2533">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nikhilgupta2533@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👀 Profile Views
+# 💻 Tech Stack
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=nikhilgupta2533&icon=5&color=12)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,mysql,mongodb,aws,gcp,git,github,postman,vscode" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| 🔐 Auth System | JWT & RBAC-based authentication backend |
+| ☁️ Cloud Backend | Scalable REST APIs deployed on cloud |
+| 📊 Analytics Platform | Backend-heavy analytics & management system |
+| 🧠 AI Integration | AI-powered features integrated into applications |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgupta2533&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=tokyo-night&hide_border=true)](https://github.com/nikhilgupta2533)
+
+</div>
+
+---
+
+# ⚡ Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nikhilgupta2533&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/nikhilgupta2533/nikhilgupta2533/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -98,8 +146,6 @@
 
 <div align="center">
 
-### ⚡ Dev Mantra
-
-*"Consistency beats motivation. Build daily, even if small."*
+## 💻 “Build Systems. Solve Problems. Stay Consistent.” 🚀
 
 </div>

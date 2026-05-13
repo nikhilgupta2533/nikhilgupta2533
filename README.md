@@ -4,7 +4,7 @@
 
 ### Backend Engineer • Java Developer • System Design Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=6DB33F&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Cloud;REST+APIs+%7C+Authentication+Systems;Always+Learning+and+Building+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Cloud;REST+APIs+%7C+Authentication+Systems;Always+Learning+and+Building+⚡" />
 
 </div>
 
@@ -94,11 +94,11 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Dashboard
 
 <div align="center">
 
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=tokyo-night&hide_border=true)](https://github.com/nikhilgupta2533)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilgupta2533&theme=tokyonight" />
 
 </div>
 
@@ -138,7 +138,8 @@
 
 <div align="center">
 
-![snake gif](https://github.com/nikhilgupta2533/nikhilgupta2533/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 ---

@@ -4,7 +4,7 @@
 
 ### Backend Engineer • Java Developer • System Design Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Cloud;REST+APIs+%7C+Authentication+Systems;Always+Learning+and+Building+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=6DB33F&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Cloud;REST+APIs+%7C+Authentication+Systems;Always+Learning+and+Building+⚡" />
 
 </div>
 
@@ -14,12 +14,12 @@
 
 # 💫 About Me
 
-- 💻 Backend-focused developer passionate about scalable systems
-- ⚙️ Building REST APIs using Java & Spring Boot
-- ☁️ Exploring AWS cloud deployment & scalable architecture
-- 🧠 Interested in DSA, optimization & backend engineering
-- 🤝 Open to collaborating on backend-heavy real-world projects
-- 🚀 Focused on becoming a strong software engineer
+- 💻 Backend-focused Computer Science student passionate about scalable systems
+- ⚙️ Building REST APIs & backend applications using **Java & Spring Boot**
+- ☁️ Exploring cloud deployment, system design & scalable architecture
+- 🧠 Strong interest in **DSA**, optimization & backend engineering
+- 🤝 Open to collaborating on real-world backend-heavy projects
+- 🚀 Focused on becoming a high-level software engineer
 
 <br>
 
@@ -49,7 +49,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,mysql,mongodb,aws,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,mysql,mongodb,aws,gcp,git,github,postman,vscode" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| 🔐 Auth System | JWT & RBAC-based authentication backend |
+| ☁️ Cloud Backend | Scalable REST APIs deployed on cloud |
+| 📊 Analytics Platform | Backend-heavy analytics & management system |
+| 🧠 AI Integration | AI-powered features integrated into applications |
 
 </div>
 
@@ -59,7 +74,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -79,11 +94,41 @@
 
 ---
 
-# 📈 Contribution Dashboard
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilgupta2533&theme=tokyonight" />
+[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=tokyo-night&hide_border=true)](https://github.com/nikhilgupta2533)
+
+</div>
+
+---
+
+# ⚡ Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nikhilgupta2533&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -93,7 +138,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![snake gif](https://github.com/nikhilgupta2533/nikhilgupta2533/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 

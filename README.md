@@ -1,66 +1,98 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&color=6DB33F&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Nikhil+Gupta;Backend+Engineer+⚡;Java+Developer+☕;System+Design+Learner+🚀" />
+</h1>
+
 <div align="center">
 
-# Hey 👋 I'm Nikhil Gupta
-
-### Backend Engineer • Java Developer • System Design Learner
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=6DB33F&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Cloud;REST+APIs+%7C+Authentication+Systems;Always+Learning+and+Building+⚡" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=BUILDING%20SCALABLE%20SYSTEMS&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:1f4037,100:99f2c8&fontColor=6DB33F&animation=fadeIn&fontSize=42"/>
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<div align="center">
 
-# 💫 About Me
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRmYW9jdzU4M3d6NzN0bHV4eW9oNDFuODl2MXJ3bDJuNWhsZXQ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="320"/>
 
-- 💻 Backend-focused Computer Science student passionate about scalable systems
-- ⚙️ Building REST APIs & backend applications using **Java & Spring Boot**
-- ☁️ Exploring cloud deployment, system design & scalable architecture
-- 🧠 Strong interest in **DSA**, optimization & backend engineering
-- 🤝 Open to collaborating on real-world backend-heavy projects
-- 🚀 Focused on becoming a high-level software engineer
+</div>
 
-<br><br>
+# 💫 SYSTEM.INFO()
+
+```yaml
+Name: Nikhil Gupta
+Role: Backend Engineer
+Focus: Scalable Backend Systems & Cloud Applications
+Status: Building real-world backend-heavy projects
+Learning: Spring Boot • System Design • DSA • Cloud
+Goal: Become a high-level software engineer
+```
 
 ---
 
-# 🌐 Connect With Me
+# ⚡ ABOUT_ME.EXE
+
+<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+```java
+class NikhilGupta {
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Backend Development",
+        "REST APIs",
+        "System Design",
+        "Cloud Computing"
+    };
+
+    String currentFocus = "Scalable Backend Applications";
+
+    String passion = "Building efficient systems";
+
+    boolean openToCollaborate = true;
+}
+```
+
+<br><br><br>
+
+---
+
+# 🌐 CONNECT_WITH_ME()
 
 <div align="center">
 
-<a href="https://instagram.com/nikhilgupta.2533" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/nikhilgupta.2533/">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<a href="https://linkedin.com/in/nikhilgupta2533" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/nikhilgupta2533/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6DB33F"/>
 </a>
 
 <a href="mailto:nikhilgupta2533@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
 </a>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+# 💻 TECH_STACK()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,mysql,mongodb,aws,gcp,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,mysql,mongodb,aws,gcp,git,github,postman,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED_PROJECTS()
 
 <div align="center">
 
-| Project | Description |
-|----------|-------------|
+| 🚀 Project | ⚡ Description |
+|------------|---------------|
 | 🔐 Auth System | JWT & RBAC-based authentication backend |
 | ☁️ Cloud Backend | Scalable REST APIs deployed on cloud |
 | 📊 Analytics Platform | Backend-heavy analytics & management system |
@@ -70,79 +102,65 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB_ANALYTICS()
 
 <div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=nikhilgupta2533&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=nikhilgupta2533&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 ACHIEVEMENTS_UNLOCKED()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION_MATRIX()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=react-dark&bg_color=0D1117&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚡ Coding Profiles
+# 🐍 CONTRIBUTION_SNAKE()
 
 <div align="center">
 
-<a href="https://leetcode.com/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-# 👀 Profile Views
+# 👁 PROFILE_VISITORS()
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nikhilgupta2533&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nikhilgupta2533&label=PROFILE+VIEWS&color=6DB33F&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# ⚡ DAILY_DEV_QUOTE()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -150,6 +168,12 @@
 
 <div align="center">
 
-## 💻 “Build Systems. Solve Problems. Stay Consistent.” 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:1f4037,100:99f2c8"/>
 
 </div>
+
+<h3 align="center">
+
+⚡ BUILD • OPTIMIZE • SCALE • REPEAT ⚡
+
+</h3>

@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&color=6DB33F&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Nikhil+Gupta;Backend+Engineer+⚡;Java+Developer+☕;System+Design+Learner+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&color=00FFB3&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Nikhil+Gupta;Backend+Engineer+⚡;Java+%7C+Spring+Boot+Developer;Building+Scalable+Systems+🚀" />
 </h1>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=BUILDING%20SCALABLE%20SYSTEMS&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:1f4037,100:99f2c8&fontColor=6DB33F&animation=fadeIn&fontSize=42"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=BUILDING%20THE%20BACKEND%20OF%20THE%20FUTURE&fontAlign=50&fontAlignY=40&color=0:000000,50:0f2027,100:00FFB3&fontColor=ffffff&animation=fadeIn&fontSize=38"/>
 
 </div>
 
@@ -12,44 +12,57 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRmYW9jdzU4M3d6NzN0bHV4eW9oNDFuODl2MXJ3bDJuNWhsZXQ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
 
 </div>
+
+---
 
 # 💫 SYSTEM.INFO()
 
 ```yaml
 Name: Nikhil Gupta
 Role: Backend Engineer
-Focus: Scalable Backend Systems & Cloud Applications
-Status: Building real-world backend-heavy projects
-Learning: Spring Boot • System Design • DSA • Cloud
-Goal: Become a high-level software engineer
+Specialization: Java Backend Development
+Focus:
+  - Scalable REST APIs
+  - Authentication & Authorization
+  - Cloud Deployment
+  - Backend Architecture
+Learning:
+  - System Design
+  - Advanced Spring Boot
+  - DSA & Optimization
+Goal: Build production-grade scalable systems
 ```
 
 ---
 
 # ⚡ ABOUT_ME.EXE
 
-<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```java
 class NikhilGupta {
 
-    String[] skills = {
+    String role = "Backend Engineer";
+
+    String[] techStack = {
         "Java",
         "Spring Boot",
-        "Backend Development",
-        "REST APIs",
-        "System Design",
-        "Cloud Computing"
+        "Node.js",
+        "MySQL",
+        "MongoDB",
+        "AWS"
     };
 
-    String currentFocus = "Scalable Backend Applications";
+    String currentMission =
+        "Building scalable backend applications";
 
-    String passion = "Building efficient systems";
+    String interests =
+        "System Design • APIs • Cloud • AI";
 
-    boolean openToCollaborate = true;
+    boolean openForCollaboration = true;
 }
 ```
 
@@ -61,16 +74,20 @@ class NikhilGupta {
 
 <div align="center">
 
-<a href="https://instagram.com/nikhilgupta.2533/">
+<a href="https://instagram.com/nikhilgupta.2533/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<a href="https://linkedin.com/in/nikhilgupta2533/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6DB33F"/>
+<a href="https://linkedin.com/in/nikhilgupta2533/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFB3"/>
 </a>
 
 <a href="mailto:nikhilgupta2533@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
+</a>
+
+<a href="https://github.com/nikhilgupta2533" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -81,7 +98,7 @@ class NikhilGupta {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,mysql,mongodb,aws,gcp,git,github,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,mysql,mongodb,aws,gcp,git,github,postman,vscode,idea&theme=dark"/>
 
 </div>
 
@@ -91,12 +108,12 @@ class NikhilGupta {
 
 <div align="center">
 
-| 🚀 Project | ⚡ Description |
-|------------|---------------|
-| 🔐 Auth System | JWT & RBAC-based authentication backend |
-| ☁️ Cloud Backend | Scalable REST APIs deployed on cloud |
-| 📊 Analytics Platform | Backend-heavy analytics & management system |
-| 🧠 AI Integration | AI-powered features integrated into applications |
+| 🚀 Project | ⚡ Description | 🛠 Tech |
+|------------|----------------|---------|
+| 🔐 Auth System | JWT & RBAC-based authentication backend | Spring Boot, JWT |
+| ☁️ Cloud Backend | Cloud deployed scalable REST APIs | AWS, Docker |
+| 📊 Analytics Platform | Backend-heavy analytics & management system | Java, MySQL |
+| 🧠 AI Integration | AI-powered application features | Node.js, AI APIs |
 
 </div>
 
@@ -106,11 +123,13 @@ class NikhilGupta {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilgupta2533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3"/>
 
-<img src="https://streak-stats.demolab.com?user=nikhilgupta2533&theme=tokyonight&hide_border=true&background=0D1117"/>
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=nikhilgupta2533&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3"/>
 
 </div>
 
@@ -120,7 +139,7 @@ class NikhilGupta {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -130,7 +149,31 @@ class NikhilGupta {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=react-dark&bg_color=0D1117&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FFB3&point=FFFFFF&area=true"/>
+
+</div>
+
+---
+
+# ⚡ CODING_PROFILES()
+
+<div align="center">
+
+<a href="https://leetcode.com/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.hackerrank.com/" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
+</a>
+
+<a href="https://www.codechef.com/" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+</a>
 
 </div>
 
@@ -140,7 +183,7 @@ class NikhilGupta {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -150,7 +193,7 @@ class NikhilGupta {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nikhilgupta2533&label=PROFILE+VIEWS&color=6DB33F&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nikhilgupta2533&label=PROFILE+VIEWS&color=00FFB3&style=for-the-badge"/>
 
 </div>
 
@@ -166,14 +209,29 @@ class NikhilGupta {
 
 ---
 
+# 🎯 CURRENT_FOCUS()
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:1f4037,100:99f2c8"/>
+```diff
++ Building scalable backend systems
++ Improving DSA & problem-solving
++ Learning advanced system design
++ Exploring cloud-native development
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:0f2027,100:00FFB3"/>
 
 </div>
 
 <h3 align="center">
 
-⚡ BUILD • OPTIMIZE • SCALE • REPEAT ⚡
+⚡ CODE • BUILD • SCALE • REPEAT ⚡
 
 </h3>

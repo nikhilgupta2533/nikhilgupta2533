@@ -21,7 +21,7 @@
 - 🤝 Open to collaborating on real-world backend-heavy projects
 - 🚀 Focused on becoming a high-level software engineer
 
-<br>
+<br><br>
 
 ---
 
@@ -29,11 +29,11 @@
 
 <div align="center">
 
-<a href="https://instagram.com/nikhilgupta.2533">
+<a href="https://instagram.com/nikhilgupta.2533" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/nikhilgupta2533">
+<a href="https://linkedin.com/in/nikhilgupta2533" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -78,7 +78,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2533&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgupta2533&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=nikhilgupta2533&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -88,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilgupta2533&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -98,7 +100,7 @@
 
 <div align="center">
 
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=tokyo-night&hide_border=true)](https://github.com/nikhilgupta2533)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilgupta2533&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -108,15 +110,15 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
@@ -138,7 +140,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/nikhilgupta2533/nikhilgupta2533/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/nikhilgupta2533/nikhilgupta2533/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
 
